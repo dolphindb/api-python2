@@ -2,7 +2,7 @@
 
 ### Introduction
 
-We stopped developing python 2 API for DolphinDB as Python 2 is no longer supported by Python.org. We recommend to use [Python 3 API](/../../../api_python3) for DolphinDB, which is written in C++ and has a better performance than Python 2 API which is written in Python. 
+We stopped developing python 2 API for DolphinDB as Python 2 is no longer supported by Python.org. We recommend to use [Python 3 API](/../../../api_python3) for DolphinDB, which is written in C++ and has a better performance than Python 2 API, which is written in Python. 
 
 ### Environment setup
 
